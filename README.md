@@ -1,2 +1,2 @@
 game dev <br>
-<h1>!everything is private!</h1>
+<h1>!I put all my public repositories(15+) on private!</h1>
